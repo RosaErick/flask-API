@@ -6,6 +6,7 @@ run.sh
 pem
 **/credentials.ini
 .env
+.venv
 **/pems.ini
 deploy*.sh
 token.sh
