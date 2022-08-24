@@ -3,4 +3,4 @@ env
 htmlcov
 .coverage
 .venv
-/venv
+/.venv
