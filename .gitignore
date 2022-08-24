@@ -1,0 +1,11 @@
+**/__pycache__
+env/
+**/*-lock.json
+**/node_modules
+run.sh
+pem
+**/credentials.ini
+.env
+**/pems.ini
+deploy*.sh
+token.sh
